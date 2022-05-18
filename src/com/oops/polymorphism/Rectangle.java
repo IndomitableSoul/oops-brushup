@@ -11,3 +11,8 @@ public class Rectangle extends Shape{
     }
 
 }
+
+//abstract methods must be overridden in child class if we want to instantiate the child class otherwise we must
+//make the child class also abstract
+
+//abstract methods must be overridden in the child class in order to provide them implementation

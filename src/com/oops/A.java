@@ -26,8 +26,8 @@ public class A {
     public static void main(String[] args) {
         A ob = new A(10);
         System.out.println(ob);//10
-//        System.out.println(ob.x);//10
-//        System.out.println(ob.toString());//10
+//      System.out.println(ob.x);//10
+//      System.out.println(ob.toString());//10
 
     }
 
